@@ -5,8 +5,4 @@ name = "python"
 enabled = true
 
   [analyzers.meta]
-<<<<<<< HEAD
   runtime_version = "3.9.4"
-=======
-  runtime_version = "3.x.x"
->>>>>>> 0227ecc04b0cb5acde6a0196b1ddfde10c33f1ba
